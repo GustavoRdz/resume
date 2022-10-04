@@ -9,7 +9,7 @@ gustavo.rodriguezml@gmail.com | [Nuevo León, México](https://www.visitmexico.c
 * **Physics**: Physical optics, mathematical physics, novel light beams, numerical simulation of physical phenomena, laser cooling, multimodal interference in waveguides.
 
 
-* **Teaching**: Science teaching: physics and mathematics. Engineering teaching: image processing, computer visión, programming, mechatronics
+* **Teaching**: Science teaching: physics and mathematics. Engineering teaching: image processing, computer visión, programming, mechatronics. Gamification
 
 ## Education
 
@@ -23,10 +23,10 @@ gustavo.rodriguezml@gmail.com | [Nuevo León, México](https://www.visitmexico.c
 
 ## Job  
 * Professor 2007-- Actual job
-  * Professor of physics, mathematics and engineering (Playground). School of mechanics and electrical engineering ([FIME](www.fime.uanl.mx) @ [UANL](www.uanl.mx))
+  * Professor of physics, mathematics and engineering ([Playground](https://gustavordz.github.io/interactive-physics/#/)). School of mechanics and electrical engineering ([FIME](www.fime.uanl.mx) @ [UANL](www.uanl.mx))
 
 ## Programming abilities
-+ Science and engineering: Python, Pandas, Scikit-Learn, Keras, TensorFlow , Matlab, FDTD
++ Science and engineering: Python, Pandas, Scikit-Learn, Keras, TensorFlow , Matlab, FDTD. C++, Unity3D
 + Web: Javascript, node, vue, html, Django, sql, firebase, SVG animated graphics
 + github.com/GustavoRdz 
 
